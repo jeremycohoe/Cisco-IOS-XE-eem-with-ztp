@@ -3,7 +3,6 @@
 # Configure Guest Shell via EEM applet
 
 ```
-
 print ("*** Configure eem_gs_config ... ***")
 eem_gs_commands = ['no event manager applet eem_gs_config',
                 'event manager applet eem_gs_config',
